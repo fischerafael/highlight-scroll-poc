@@ -1,0 +1,7 @@
+.isCurrent {
+  font-weight: bold;
+}
+
+.isCurrent a {
+  color: red;
+}
