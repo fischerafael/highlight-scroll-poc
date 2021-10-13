@@ -1,5 +1,4 @@
 import { Flex, HStack, SimpleGrid, VStack } from "@chakra-ui/layout";
-import { calc } from "@chakra-ui/styled-system";
 import { ReactNode } from "react";
 
 interface Props {
